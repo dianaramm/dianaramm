@@ -1,3 +1,4 @@
+![Banner](banner_diana_ramirez.png)
 # ¡Hola! Soy Diana Ramírez 👋
 
 ### 💻 Ingeniera en Desarrollo de Software | Full Stack Developer
